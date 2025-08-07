@@ -1,5 +1,20 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&section=header&height=300&text=Welcome&fontAlignX=50&fontAlignY=45&color=gradient&fontSize=100&fontColor=ffffff&desc=It's%20my%20profile)
 
+## 💬 자기소개 💬
+
+<div align="center">
+
+안녕하세요, 정다훈입니다! 👋  
+컨베이어 벨트 회사에서 근무하다가, 2022년부터 IT 업계로의 전환을 결심하고 개발자의 길을 걷고 있습니다.  
+<br/>
+코리아IT아카데미에서 데이터 분석과 웹 개발 과정을 수료한 뒤, 다양한 프로젝트를 경험하며 역량을 쌓아왔습니다.  
+현재도 꾸준히 공부하며, 부족한 부분은 겸손하게 배우고 성장해나가고 있습니다.  
+<br/>
+새로운 기술을 익히고, 문제를 해결해 나가는 과정에서 큰 보람을 느낍니다.  
+앞으로도 지속적인 성장과 협업을 통해 좋은 개발자가 되기 위해 노력하겠습니다.
+
+</div>
+
 <div align="center">
   
 ## 💻 개발 언어

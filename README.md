@@ -45,6 +45,6 @@
 
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Dhchung12&theme=dark)](https://git.io/streak-stats)
+
 
 

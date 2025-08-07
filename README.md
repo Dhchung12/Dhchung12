@@ -45,6 +45,6 @@
 
 </div>
 
-[![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDhchung12&count_bg=%230080FF&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=true)](https://hits.seeyoufarm.com)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Dhchung12&theme=dark)](https://git.io/streak-stats)
 
 
